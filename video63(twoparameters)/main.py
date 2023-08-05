@@ -4,4 +4,4 @@ def greeting(name, city):
 
 name = input("Enter you name? ")
 city = input("Enter you city? ")
-greeting(name, city)
+greeting(name=name, city=city)
