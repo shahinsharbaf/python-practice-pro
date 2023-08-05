@@ -3,5 +3,4 @@ def greting(name):
 
 
 name = input("what is you name? ")
-
 greting(name)
