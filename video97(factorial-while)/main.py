@@ -6,7 +6,7 @@ def factorial(facrorial_num):
     result = 1
     for num in range(1, facrorial_num+1):
         result = result * num
-    return (result)
+    return ("the factorial of %i is %i" % (facrorial_num, result))
 
 
 try:
